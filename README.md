@@ -1,5 +1,5 @@
 ## Discord Face Changer
-Discord bot for changing faces in pictures.
+Discord bot for changing faces in images by using AI.
 
 ## Preview
 ![image](https://github.com/kaan36875/discord-facechanger/assets/68202970/3fa073ce-04fb-44e3-aef1-00c7b31e8a84)
